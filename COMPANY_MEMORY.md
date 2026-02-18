@@ -1,7 +1,3 @@
-# COMPANY MEMORY
+# COMPANY_MEMORY.md
 
-<!--
-Append reusable org-wide learnings that could help colleagues too.
-Do NOT dump raw conversation.
-Avoid secrets or sensitive information.
--->
+- Deployment logs must be archived for 30 days.

@@ -1,7 +1,3 @@
-# USER MEMORY
+# USER_MEMORY.md
 
-<!--
-Append only high-signal, user-specific facts worth remembering.
-Do NOT dump raw conversation.
-Avoid secrets or sensitive information.
--->
+- The user is a Recruiter from Google.

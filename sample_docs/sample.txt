@@ -1,0 +1,7 @@
+The Agentic RAG Chatbot is a hackathon project by the elite AI Engineering squad. 
+It uses LangGraph for state management and orchestration of agents.
+Feature A involves Ingestion and Hybrid RAG using FAISS and BM25.
+Feature B involves Stateful Memory with USER_MEMORY.md and COMPANY_MEMORY.md.
+Feature C involves a Safe Sandbox using Open-Meteo for weather analysis.
+All code is written in Python.
+The project infrastructure includes a Makefile for sanity checks.
