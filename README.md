@@ -83,6 +83,18 @@ make run
 ```
 Open **http://localhost:8000** in your browser.
 
+### 🧪 Run Sanity Check (Automated Testing)
+The project includes a comprehensive test suite to verify RAG, Memory, and Sandbox functionality.
+```bash
+make sanity
+```
+This runs an end-to-end test script and verifies:
+- Ingestion of sample docs
+- Retrieval and RAG answers
+- Memory persistence
+- Sandbox code execution
+Output is saved to `artifacts/sanity_output.json`.
+
 ---
 
 ## 🎥 Video Walkthrough
